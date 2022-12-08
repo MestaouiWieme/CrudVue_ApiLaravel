@@ -1,0 +1,29 @@
+{
+  "user": [
+    {
+      "nom": "Mestaoui",
+      "prenom": "Wissem",
+      "id": 3
+    },
+    {
+      "nom": "haddad",
+      "prenom": "aya",
+      "id": "4"
+    },
+    {
+      "id": "1",
+      "nom": "benmaad",
+      "prenom": "alaa"
+    },
+    {
+      "id": "2",
+      "nom": "ben youssef",
+      "prenom": "bilel"
+    },
+    {
+      "nom": "mestaoui",
+      "prenom": "wassim",
+      "id": "5"
+    }
+  ]
+}
